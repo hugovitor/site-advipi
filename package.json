@@ -1,0 +1,22 @@
+{
+  "name": "site-advipi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugovitor/site-advipi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugovitor/site-advipi/issues"
+  },
+  "homepage": "https://github.com/hugovitor/site-advipi#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
